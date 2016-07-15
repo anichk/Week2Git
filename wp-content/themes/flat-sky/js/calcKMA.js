@@ -1,7 +1,7 @@
 /* calcKMA.js - function used in WordPress theme flat-sky
    Ken Anich - anichk@csp.edu
    Written: July 3, 2016
-   Revised:
+   Revised: July 14, 2016 - updating file for GitHub
   */
 // Calculate answer for calculator argument
 function calcAnswer() {
